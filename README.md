@@ -19,7 +19,7 @@
 
 ### 📖 Sobre
 
-**DevLink** é um agregador de links inspirado no Linktree, construído com React e Firebase. Permite que desenvolvedores e criadores de conteúdo criem uma página personalizada reunindo todos os seus links importantes em um só lugar — com cores customizáveis e ícones de redes sociais.
+**DevLink** é um agregador de links inspirado no Linktree, construído com React e Firebase. Permite que desenvolvedores e criadores de conteúdo criem uma página personalizada reunindo todos os seus links importantes em um só lugar com cores customizáveis e ícones de redes sociais.
 
 ### 📸 Screenshots
 
@@ -109,7 +109,7 @@ src/
 
 ### 📖 About
 
-**DevLink** is a Linktree-inspired link aggregator built with React and Firebase. It allows developers and content creators to build a custom page gathering all their important links in one place — with customizable colors and social media icons.
+**DevLink** is a Linktree-inspired link aggregator built with React and Firebase. It allows developers and content creators to build a custom page gathering all their important links in one place with customizable colors and social media icons.
 
 ### 📸 Screenshots
 
