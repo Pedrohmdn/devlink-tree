@@ -200,8 +200,4 @@ src/
 
 Este projeto está sob a licença MIT. · This project is under the MIT license.
 
----
-
-Feito com ❤️ · Made with ❤️
-
 </div>
