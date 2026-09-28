@@ -34,7 +34,7 @@ export default function Admin() {
   const [linkBg, setLinkBg] = useState("#f1f1f1");
   const [linkColor, setLinkColor] = useState("#121212");
   const [links, setLinks] = useState<LinkProps[]>([]);
-  const [maxNameLength, setmaxNameLength] = useState<number>(82);
+  const [maxNameLength] = useState<number>(82);
   const { user } = useContext(UserContext);
 
   useEffect(() => {
