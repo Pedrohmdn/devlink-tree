@@ -153,7 +153,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/projeto-devlink.git
+git clone https://github.com/Pedrohmdn/devlink-tree.git
 
 # Navigate to the project folder
 cd projeto-devlink
