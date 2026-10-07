@@ -66,7 +66,7 @@
 git clone https://github.com/Pedrohmdn/devlink-tree.git
 
 # Acesse a pasta do projeto
-cd projeto-devlink
+cd devlink-tree
 
 # Instale as dependências
 npm install
@@ -156,7 +156,7 @@ src/
 git clone https://github.com/Pedrohmdn/devlink-tree.git
 
 # Navigate to the project folder
-cd projeto-devlink
+cd devlink-tree
 
 # Install dependencies
 npm install
