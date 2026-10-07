@@ -63,7 +63,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/projeto-devlink.git
+git clone https://github.com/Pedrohmdn/devlink-tree.git
 
 # Acesse a pasta do projeto
 cd projeto-devlink
